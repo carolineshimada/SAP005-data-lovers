@@ -7,6 +7,8 @@
 * [3. Histórias de usuários](#3-Histórias-de-Usuários)
 * [4. Protótipo de baixa fidelidade](#4-Protótipo-de-baixa-fidelidade)
 * [5. Testes](#5-Testes)
+* [6. Planning](#5-Planning)
+
 
 
 
@@ -48,6 +50,12 @@ Com base nas informações coletadas, escrevemos algumas histórias de usuários
 ## 5. Testes
 
 ![teste](testeprint.png)
+
+## 6. Planning
+
+[Clique aqui](https://trello.com/b/5YMe6lXj/data-lovers) para acessar o planejamento para o desenvolvimento deste projeto.
+https://trello.com/b/5YMe6lXj/data-lovers
+
 
 
 💻🙎
