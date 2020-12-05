@@ -229,10 +229,14 @@ li {
     margin: auto;
 }
 
+.box p {
+    margin: auto;
+}
+
 .box-calculo{
     display: flex;
     justify-content: space-around;
-    width: 50%;
+    width: 80%;
     margin: 3% auto 3% auto;
     flex-wrap: wrap;
 }
@@ -265,7 +269,7 @@ li {
     width: 500px;
     height: 500px;
     perspective: 1000px;
-    margin: auto
+    margin: auto;
 }
 .flip-carr:hover .flip-card2 {
     transform: rotateY(180deg);
@@ -278,6 +282,14 @@ li {
         font-size: 17px;
     }
 }
+
+@media(max-width:1088px) {
+    
+    .box{
+        margin-bottom: 15%; 
+    }
+}
+
 
 @media(max-width:832px) {
     
@@ -312,8 +324,30 @@ li {
         margin-right: 2%;
         font-size: 12px;
     }
+
+    .box{
+        margin-bottom: 25%; 
+    }
     
     .menu {
         flex-wrap: wrap;
+    }
+}
+
+@media(max-width:400px) {
+    .flip-carr {
+        width: 350px;
+        height: 350px;
+    }
+
+    .box{
+        margin-bottom: 35%; 
+    }
+
+    .resumo-texto{
+        margin-top: 25%;
+        font-family: sans-serif;
+        font-size: 12px;
+        line-height:200%;
     }
 }

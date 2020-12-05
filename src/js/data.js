@@ -8,7 +8,7 @@ export const filterByType = (pokemons, tipo) => {
 };
 
 export const filterByName = (pokemons, input) => {
-
+    
     return pokemons.filter((pokemon) => {
         return pokemon.name.includes(input.toLowerCase());
     })
@@ -24,15 +24,19 @@ export const filterByRarity = (pokemons, rarity) => {
 };
 
 export const orderByName = (pokemons, order) => {
-
+    
+    if(order == "todos"){
+        return pokemons;
+    }
+    
     let arraySorted = pokemons.sort((pokemon1, pokemon2) => {
-        sortCondition(pokemon1, pokemon2);
+        return sortCondition(pokemon1, pokemon2);
     });
-
+    
     if (order == "za") {
         return arraySorted.reverse();
     }
-
+    
     return arraySorted;
 }
 
