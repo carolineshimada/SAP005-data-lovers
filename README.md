@@ -20,7 +20,7 @@ PokeLovers é uma página que contém informações dos pokémons da região de 
 
 Para acessar [clique aqui](https://carolineshimada.github.io/SAP005-data-lovers/.)
  
-![paginaweb](print.png)
+![paginaweb](gift-utilizacao3.gif)
 
 ## 2. Definição de Persona
 
