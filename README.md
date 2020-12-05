@@ -6,7 +6,7 @@
 * [2. Definição de Persona](#2-definição-de-Persona)
 * [3. Histórias de usuários](#3-Histórias-de-Usuários)
 * [4. Protótipo de baixa fidelidade](#4-Protótipo-de-baixa-fidelidade)
-* [5. Teste](#5-Teste)
+* [5. Testes](#5-Testes)
 
 
 
@@ -16,7 +16,7 @@
 
 PokeLovers é uma página que contém informações dos pokémons da região de Kanto e Johto. Nela o usuário pode visualizar todos os cards com os pokémons na tela, ordená-los por ordem alfabética, filtrar sua busca por tipo e por raridade e pesquisar por nome o pokémon que deseja consultar. Além disso, na página o usuário consegue visualizar o mapa das regiões de Kanto e Johto, ler um resumo do jogo Pokémon GO e fazer um cálculo para saber quantos pokémons ainda faltam de cada região. 
 
-![paginaweb](paginapoke.png)
+![paginaweb](print.png)
 
 ## 2. Definição de Persona
 
@@ -43,7 +43,7 @@ Com base nas informações coletadas, escrevemos algumas histórias de usuários
 
 ![prototipo](prototipob.png)
 
-## 5. Teste
+## 5. Testes
 
 ![teste](teste.png)
 
