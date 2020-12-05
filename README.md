@@ -18,7 +18,7 @@ PokeLovers é uma página que contém informações dos pokémons da região de 
 
 Para acessar [clique aqui](https://carolineshimada.github.io/SAP005-data-lovers/.)
  
-![paginaweb](testeprint.png)
+![paginaweb](print.png)
 
 ## 2. Definição de Persona
 
@@ -47,7 +47,7 @@ Com base nas informações coletadas, escrevemos algumas histórias de usuários
 
 ## 5. Testes
 
-![teste](teste.png)
+![teste](testeprint.png)
 
 
 💻🙎
