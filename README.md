@@ -30,8 +30,7 @@ Para validar nossa persona e criarmos as histórias de usuários, elaboramos um 
 ## Persona
 
  Gustavo, 28 anos, morador da cidade de São Paulo. É formado em contabilidade e trabalha em um renomado escritório no centro da cidade. Nas horas vagas curte ouvir música, sair e beber com os amigos, assistir series, animes e jogar videogame. Possui o Pokémon Go em seu celular e joga quase todos os dias. Gustavo se preocupa muito com a quantidade que possui de Pokémon’s e acredita que seria interessante ter uma página que mostrasse o quanto falta para completar sua lista de Pokémon's.
-Com base nas informações coletadas, escrevemos algumas histórias de usuários.!
-[persona](avatar.png)
+Com base nas informações coletadas, escrevemos algumas histórias de usuários.![persona](avatar.png)
 
 ## 3. Histórias de usuários
 
