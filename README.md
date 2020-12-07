@@ -25,6 +25,7 @@ Para acessar [clique aqui](https://carolineshimada.github.io/SAP005-data-lovers/
 ## 2. Definição de Persona
 
 Para validar nossa persona e criarmos as histórias de usuários, elaboramos um formulário com algumas perguntas e enviamos para que alguns usuários respondessem.
+[Clique aqui](https://docs.google.com/forms/d/1OMNk3lU7YnVaKF0jrWHcdSM9Ubf0F9w0PgyOp93Hg84/edit) para ver o formulario aplicado.
 
 ## Persona
 
@@ -54,7 +55,6 @@ Com base nas informações coletadas, escrevemos algumas histórias de usuários
 ## 6. Planning
 
 [Clique aqui](https://trello.com/b/5YMe6lXj/data-lovers) para acessar o planejamento para o desenvolvimento deste projeto.
-https://trello.com/b/5YMe6lXj/data-lovers
 
 
 
