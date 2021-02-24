@@ -12,14 +12,14 @@ function inputKantoCalculo(){
     let value = document.getElementById("inserir-kanto-quantidade").value;
     let valorPokemon = filtros.filterByRegiao(pokemons, "kanto").length;
     let valorTotal = valorPokemon - value;
-    document.getElementById("inserir-kanto").innerHTML = "Faltam para você completar a pokédex de kanto " + valorTotal + " pokemons"
+    document.getElementById("inserir-kanto").innerHTML = "Faltam " + valorTotal + " pokemons para completar sua pokédex de Kanto"
 }
 
 function inputJohtoCalculo(){
     let value = document.querySelector('#inserir-johto-quantidade').value;
     let valorPokemon = filtros.filterByRegiao(pokemons, "johto").length;
     let valorTotal = valorPokemon - value;
-    document.getElementById("inserir-johto").innerHTML = "Faltam para você completar a pokédex de johto " + valorTotal + " pokemons"
+    document.getElementById("inserir-johto").innerHTML = "Faltam " + valorTotal + " pokemons para completar sua pokédex de Johto"
 }
 //*---------------- LISTENERS ---------------------*/
 buttonKanto.addEventListener('click', (event) => {
