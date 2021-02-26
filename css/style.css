@@ -19,6 +19,11 @@ body{
     padding: 2%;
 }
 
+.copyright{
+    color: yellow;
+    margin-left:370px;
+    text-shadow: 0.1em 0.1em 0.2em yellow;
+}
 .navMenu {
     background-color: rgba(203, 228, 231, 0.616);
     border-radius: 9px;
