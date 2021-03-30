@@ -18,7 +18,7 @@
 
 PokeLovers é uma página que contém informações dos pokémons da região de Kanto e Johto. Nela o usuário pode visualizar todos os cards com os pokémons na tela, ordená-los por ordem alfabética, filtrar sua busca por tipo e por raridade e pesquisar por nome o pokémon que deseja consultar. Além disso, na página o usuário consegue visualizar o mapa das regiões de Kanto e Johto, ler um resumo do jogo Pokémon GO e fazer um cálculo para saber quantos pokémons ainda faltam de cada região. 
 
-Para acessar [clique aqui](https://github.com/carolineshimada/SAP005-data-lovers)
+Para acessar [clique aqui](https://carolineshimada.github.io/SAP005-data-lovers/)
  
 ![paginaweb](gift-utilizacao3.gif)
 
